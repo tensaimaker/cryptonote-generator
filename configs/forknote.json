@@ -40,7 +40,7 @@
     "git": "https://github.com/amjuarez/bytecoin.git"
   },
   "core": {
-    "CRYPTONOTE_NAME": "shibuyanote",
+    "CRYPTONOTE_NAME": "shibuyacoin",
     "CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX": 150,
     "P2P_DEFAULT_PORT": 8080,
     "RPC_DEFAULT_PORT": 8081,
